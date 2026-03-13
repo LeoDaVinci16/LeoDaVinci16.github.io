@@ -1,0 +1,35 @@
+# --------------------------
+# Node / JS / Frontend stuff (if any)
+# --------------------------
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# --------------------------
+# OS / Editor files
+# --------------------------
+.DS_Store
+Thumbs.db
+*.log
+*.swp
+*.swo
+.vscode/
+.idea/
+*.bak
+
+# --------------------------
+# Build / Generated files
+# --------------------------
+dist/
+build/
+*.aux
+*.log
+*.out
+*.toc
+*.gz
+*.pdf
+
+# --------------------------
+# Personal / sensitive files
+# --------------------------
+.env
